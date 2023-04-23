@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "name": "Women Dress",
+            "subcategory": [
+                "Wedding & Event",
+                "Tops & Sets",
+                "Bags"
+            ]
+        },
+        {
+            "name": "Men Clothing & Fashion",
+            "subcategory": [
+                "Shirts",
+                "Accessories"
+            ]
+        },
+        {
+            "name": "Kids & Toys",
+            "subcategory": [
+                "Shoes & Bags",
+                "Baby Clothing",
+                "Girls Toys"
+            ]
+        }
+        
+    ]
+}
